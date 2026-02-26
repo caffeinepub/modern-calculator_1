@@ -1,2 +1,3 @@
-# modern-calculator_1
-Exported from Caffeine project: Modern Calculator
+## 
+
+To run app build and run docker image: `docker build -t app . docker run -it --network host app`
